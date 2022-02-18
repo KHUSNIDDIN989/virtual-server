@@ -1,0 +1,17 @@
+URL:
+	https://console.cloud.google.com/projectselector2/apis/dashboard?
+Activater:
+	docker run -p 6070:80 dorowu/ubuntu-desktop-lxde-vnc
+Port Code:
+	6070
+
+
+1m-learningpath-345::FnukEVAo0l_1UGZROg4p4w 
+
+
+
+
+
+
+student-00-470bd0cbd73b@qwiklabs.net
+
